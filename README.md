@@ -53,5 +53,5 @@ pip install ultralytics
 
 ### Author: 
 Chibueze Anyachebelu
-Neuroscience & Computer Science @ Northwestern University
+Computer Science & Neuroscience @ Northwestern University
 
