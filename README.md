@@ -32,3 +32,26 @@ vision/
 
 └── requirements.txt
 
+
+---
+
+## ⚙️ Requirements
+
+### Python Version
+- Python 3.10 (recommended)
+
+### Python Packages
+Install using pip:
+
+
+pip install opencv-contrib-python numpy
+
+pip install ultralytics
+
+
+
+
+### Author: 
+Chibueze Anyachebelu
+Neuroscience & Computer Science @ Northwestern University
+
