@@ -19,10 +19,16 @@ This project is a **real-time object detection system** using a webcam and **YOL
 vision/
 
 ├── yolo/
+
 │   ├── yolov3-tiny.onnx       # ONNX model file
+
 │   ├── coco.names             # COCO dataset class names
+
 │   └── yolo_webcam.py         # Main Python script
+
 ├── README.md
+
 ├── .gitignore
+
 └── requirements.txt
 
